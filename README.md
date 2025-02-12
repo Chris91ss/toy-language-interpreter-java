@@ -36,8 +36,11 @@
 ## 🚀 Future Enhancements
 
 🔹 **Advanced Parsing Engine** – Implement a structured parser to improve code organization and execution.
+
 🔹 **Expanded Language Features** – Extend support for functions, arrays, and object-oriented constructs.
+
 🔹 **Optimized Performance** – Enhance execution speed and memory efficiency.
+
 🔹 **Enhanced Debugging Tools** – Provide deeper insights into program execution and variable tracking.
 
 ---
