@@ -9,16 +9,27 @@
 ## 🛠️ Features
 
 ✅ **GUI Debugger** – Step through code execution and inspect variables using a user-friendly interface.
+
 ✅ **Comprehensive Data Types** – Supports integers, floats, booleans, strings, and references.
+
 ✅ **Powerful Expressions** – Evaluate arithmetic, logical, and relational expressions with precision.
+
 ✅ **Print Statements** – Output values and messages directly within the interpreter.
+
 ✅ **Conditional Logic** – Implement robust decision-making with if-else constructs.
+
 ✅ **Looping Constructs** – Utilize while and for loops to enable iterative operations.
+
 ✅ **Dynamic Memory Management** – Efficiently allocate and manage memory for variables at runtime.
+
 ✅ **Automatic Garbage Collection** – Reclaim memory for unused variables seamlessly.
+
 ✅ **Multithreading Support** – Execute multiple threads concurrently for parallel processing.
+
 ✅ **Synchronization Mechanism** – Ensure thread safety using synchronized operations.
+
 ✅ **Type Checking System** – Prevent type errors before execution for a robust development experience.
+
 
 ---
 
